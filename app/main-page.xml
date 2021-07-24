@@ -26,5 +26,9 @@ https://docs.nativescript.org/ui/components.
         <Label text="Tap the button" class="h1 text-center" />
         <Button text="TAP" tap="{{ onTap }}" class="-primary" />
         <Label text="{{ message }}" class="h2 text-center" textWrap="true" />
+
+    <Label text="Tap the button" class="h1 text-center" />
+        <Button text="TAP" tap="{{ onWorkerTap }}" class="-primary" />
+
     </StackLayout>
 </Page>

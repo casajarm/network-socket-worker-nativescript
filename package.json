@@ -35,6 +35,7 @@
     "@nativescript/theme": "~3.0.1"
   },
   "devDependencies": {
+    "@nativescript/android": "8.0.0",
     "@nativescript/webpack": "beta"
   },
   "private": "true",
