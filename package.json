@@ -36,7 +36,8 @@
   },
   "devDependencies": {
     "@nativescript/android": "8.0.0",
-    "@nativescript/webpack": "beta"
+    "@nativescript/webpack": "beta",
+    "tns-platform-declarations": "^6.5.15"
   },
   "private": "true",
   "readme": "NativeScript Application"
